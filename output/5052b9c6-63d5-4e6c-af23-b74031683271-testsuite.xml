@@ -1,0 +1,136 @@
+<?xml version='1.0'?>
+<ns2:test-suite xmlns:ns2='urn:model.allure.qatools.yandex.ru' start='1672611157265' stop='1672611172367'>
+    <name>file attachment:</name>
+    <title>file attachment:</title>
+    <test-cases>
+        <test-case start='1672611157266' status='passed' stop='1672611172290'>
+            <name>file attachment</name>
+            <title>file attachment</title>
+            <labels/>
+            <parameters/>
+            <steps>
+                <step start='1672611157269' status='passed' stop='1672611157281'>
+                    <name>I wait </name>
+                    <title>I wait </title>
+                    <attachments/>
+                    <steps/>
+                </step>
+                <step start='1672611157281' status='passed' stop='1672611157315'>
+                    <name>I wait for element "//a[@id="submit_upload_button"]", 30</name>
+                    <title>I wait for element "//a[@id="submit_upload_button"]", 30</title>
+                    <attachments/>
+                    <steps/>
+                </step>
+                <step start='1672611157315' status='passed' stop='1672611157439'>
+                    <name>I click "//a[@id="submit_upload_button"]"</name>
+                    <title>I click "//a[@id="submit_upload_button"]"</title>
+                    <attachments/>
+                    <steps/>
+                </step>
+                <step start='1672611157439' status='passed' stop='1672611160454'>
+                    <name>I wait 3</name>
+                    <title>I wait 3</title>
+                    <attachments/>
+                    <steps/>
+                </step>
+                <step start='1672611160455' status='passed' stop='1672611160762'>
+                    <name>I attach file "//input[@type="file"]", "../YazilimTesti.zip"</name>
+                    <title>I attach file "//input[@type="file"]", "../YazilimTesti.zip"</title>
+                    <attachments/>
+                    <steps/>
+                </step>
+                <step start='1672611160763' status='passed' stop='1672611160770'>
+                    <name>I wait </name>
+                    <title>I wait </title>
+                    <attachments/>
+                    <steps/>
+                </step>
+                <step start='1672611160771' status='passed' stop='1672611160792'>
+                    <name>I wait for element "//a[@id="submit_upload_button"]", 30</name>
+                    <title>I wait for element "//a[@id="submit_upload_button"]", 30</title>
+                    <attachments/>
+                    <steps/>
+                </step>
+                <step start='1672611160792' status='passed' stop='1672611160837'>
+                    <name>I click "//a[@id="submit_upload_button"]"</name>
+                    <title>I click "//a[@id="submit_upload_button"]"</title>
+                    <attachments/>
+                    <steps/>
+                </step>
+                <step start='1672611160837' status='passed' stop='1672611161837'>
+                    <name>I wait 1</name>
+                    <title>I wait 1</title>
+                    <attachments/>
+                    <steps/>
+                </step>
+                <step start='1672611161838' status='passed' stop='1672611161875'>
+                    <name>I see element "//label[@data-file-name="YazilimTesti"]"</name>
+                    <title>I see element "//label[@data-file-name="YazilimTesti"]"</title>
+                    <attachments/>
+                    <steps/>
+                </step>
+                <step start='1672611161875' status='passed' stop='1672611164888'>
+                    <name>I wait 3</name>
+                    <title>I wait 3</title>
+                    <attachments/>
+                    <steps/>
+                </step>
+                <step start='1672611164889' status='passed' stop='1672611164996'>
+                    <name>I attach file "//input[@type="file"]", "../1-uploadfolder.zip"</name>
+                    <title>I attach file "//input[@type="file"]", "../1-uploadfolder.zip"</title>
+                    <attachments/>
+                    <steps/>
+                </step>
+                <step start='1672611164997' status='passed' stop='1672611164997'>
+                    <name>I wait </name>
+                    <title>I wait </title>
+                    <attachments/>
+                    <steps/>
+                </step>
+                <step start='1672611164997' status='passed' stop='1672611165017'>
+                    <name>I wait for element "//a[@id="submit_upload_button"]", 30</name>
+                    <title>I wait for element "//a[@id="submit_upload_button"]", 30</title>
+                    <attachments/>
+                    <steps/>
+                </step>
+                <step start='1672611165017' status='passed' stop='1672611165070'>
+                    <name>I click "//a[@id="submit_upload_button"]"</name>
+                    <title>I click "//a[@id="submit_upload_button"]"</title>
+                    <attachments/>
+                    <steps/>
+                </step>
+                <step start='1672611165070' status='passed' stop='1672611166077'>
+                    <name>I wait 1</name>
+                    <title>I wait 1</title>
+                    <attachments/>
+                    <steps/>
+                </step>
+                <step start='1672611166078' status='passed' stop='1672611166125'>
+                    <name>I see element "//label[@data-file-name="1-uploadfolder"]"</name>
+                    <title>I see element "//label[@data-file-name="1-uploadfolder"]"</title>
+                    <attachments/>
+                    <steps/>
+                </step>
+                <step start='1672611166125' status='passed' stop='1672611169130'>
+                    <name>I wait 3</name>
+                    <title>I wait 3</title>
+                    <attachments/>
+                    <steps/>
+                </step>
+                <step start='1672611169130' status='passed' stop='1672611169279'>
+                    <name>I save screenshot "filesUploaded.png"</name>
+                    <title>I save screenshot "filesUploaded.png"</title>
+                    <attachments/>
+                    <steps/>
+                </step>
+                <step start='1672611169279' status='passed' stop='1672611172290'>
+                    <name>I wait 3</name>
+                    <title>I wait 3</title>
+                    <attachments/>
+                    <steps/>
+                </step>
+            </steps>
+            <attachments/>
+        </test-case>
+    </test-cases>
+</ns2:test-suite>

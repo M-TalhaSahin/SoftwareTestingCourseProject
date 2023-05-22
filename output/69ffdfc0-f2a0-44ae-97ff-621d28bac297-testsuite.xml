@@ -1,0 +1,40 @@
+<?xml version='1.0'?>
+<ns2:test-suite xmlns:ns2='urn:model.allure.qatools.yandex.ru' start='1672611144159' stop='1672611157255'>
+    <name>go to page:</name>
+    <title>go to page:</title>
+    <test-cases>
+        <test-case start='1672611151834' status='passed' stop='1672611157188'>
+            <name>go to page</name>
+            <title>go to page</title>
+            <labels/>
+            <parameters/>
+            <steps>
+                <step start='1672611151845' status='passed' stop='1672611152011'>
+                    <name>I am on page "http://127.0.0.1:5000/"</name>
+                    <title>I am on page "http://127.0.0.1:5000/"</title>
+                    <attachments/>
+                    <steps/>
+                </step>
+                <step start='1672611152012' status='passed' stop='1672611154023'>
+                    <name>I wait 2</name>
+                    <title>I wait 2</title>
+                    <attachments/>
+                    <steps/>
+                </step>
+                <step start='1672611154023' status='passed' stop='1672611154183'>
+                    <name>I save screenshot "pageOpened.png"</name>
+                    <title>I save screenshot "pageOpened.png"</title>
+                    <attachments/>
+                    <steps/>
+                </step>
+                <step start='1672611154183' status='passed' stop='1672611157187'>
+                    <name>I wait 3</name>
+                    <title>I wait 3</title>
+                    <attachments/>
+                    <steps/>
+                </step>
+            </steps>
+            <attachments/>
+        </test-case>
+    </test-cases>
+</ns2:test-suite>
